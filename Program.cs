@@ -5,9 +5,9 @@ namespace LogicalProgramming
     {
         public static void Main(string[] args)
         {
-            Fibobacci.DisplayFibonacci();
+            //Fibobacci.DisplayFibonacci();
             //Reverse.ReverseNum();
-            //PerfectNo.FindPerfectNo();
+            PerfectNo.FindPerfectNo();
             //PrimeNo.CheckPrimeNo();
             //StopwatchProgram.CalElapsedTime();
         }
