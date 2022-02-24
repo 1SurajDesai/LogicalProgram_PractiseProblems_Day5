@@ -7,8 +7,8 @@ namespace LogicalProgramming
         {
             //Fibobacci.DisplayFibonacci();
             //Reverse.ReverseNum();
-            PerfectNo.FindPerfectNo();
-            //PrimeNo.CheckPrimeNo();
+            //PerfectNo.FindPerfectNo();
+            PrimeNo.CheckPrimeNo();
             //StopwatchProgram.CalElapsedTime();
         }
     }
